@@ -42,7 +42,7 @@ a,an,the,in,of,to,for,with,is,was,and,by,on,from,at
 4. Run the program:
    java Four test.txt stopwords.txt
 
-   The program will output the top 25 most frequent words in the file, excluding stopwords.
+The program will output the top 25 most frequent words in the file, excluding stopwords.
 
 ## Expected Output Example
 ------------------------
