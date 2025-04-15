@@ -1,6 +1,6 @@
-## TopWordFrequency Program - Monolithic Style
+# TopWordFrequency Program - Monolithic Style
 
-# Overview
+## Overview
 --------
 The `Four` program is a monolithic-style Java application that:
 
@@ -14,10 +14,7 @@ This program was developed under the following constraints:
 - No use of built-in data structures like ArrayList or HashMap
 - Only standard arrays and manual resizing
 
-============================================
-
-
-Project Folder Structure
+## Project Folder Structure
 ------------------------
 Place the following files in the same folder:
 
@@ -28,10 +25,7 @@ Place the following files in the same folder:
 Example stopwords.txt:
 a,an,the,in,of,to,for,with,is,was,and,by,on,from,at
 
-============================================
-
-
-How to Compile and Run
+## How to Compile and Run
 -----------------------
 
 1. Open Command Prompt or Terminal
@@ -50,10 +44,7 @@ How to Compile and Run
 
    The program will output the top 25 most frequent words in the file, excluding stopwords.
 
-============================================
-
-
-Expected Output Example
+## Expected Output Example
 ------------------------
 Top 25 words:
 love: 123
@@ -63,10 +54,7 @@ mr: 75
 time: 63
 ...
 
-============================================
-
-
-Constraints of the Monolithic Style
+## Constraints of the Monolithic Style
 -----
 - No named abstractions, my helper functions are technically abstractions but they do not introduce new classes or modular decomposition
 - This program is useful for analyzing text frequency under constrained environments without using libraries (except for file input)
