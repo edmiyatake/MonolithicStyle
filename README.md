@@ -5,7 +5,7 @@
 The `Four` program is a monolithic-style Java application that:
 
 - Reads a text file containing the content to analyze.
-- Loads a list of stopwords and removes them from the analysis.
+- Loads a list of stopwords.
 - Tracks the frequency of each non-stop word using only basic Java constructs (no collections or libraries like HashMap or ArrayList).
 - Displays the top 25 most frequent words from the input text file.
 
