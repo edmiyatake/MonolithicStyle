@@ -1,9 +1,6 @@
 ## TopWordFrequency Program - Monolithic Style
 
-============================================
-
-
-Overview
+# Overview
 --------
 The `Four` program is a monolithic-style Java application that:
 
