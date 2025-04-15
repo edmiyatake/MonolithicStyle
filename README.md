@@ -48,10 +48,15 @@ a,an,the,in,of,to,for,with,is,was,and,by,on,from,at
 ------------------------
 Top 25 words:
 love: 123
+
 elizabeth: 87
+
 darcy: 79
+
 mr: 75
+
 time: 63
+
 ...
 
 ## Constraints of the Monolithic Style
